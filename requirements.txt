@@ -1,0 +1,13 @@
+openai-whisper
+gradio
+yt-dlp
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+duckduckgo-search
+chromadb
+tiktoken
+langsmith
+pydub
+ffmpeg-python
